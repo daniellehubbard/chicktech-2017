@@ -1,0 +1,10 @@
+add a background image:
+
+background-image: url('URLHERE')
+
+background-color: red (you can put any color!)
+
+font-size: 20px;
+font-family: [font name goes here]
+
+
